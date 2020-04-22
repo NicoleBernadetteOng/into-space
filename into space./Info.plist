@@ -60,5 +60,9 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>Speak your mind, baby girl.</string>
+	<key>NSSpeechRecognitionUsageDescription</key>
+	<string>I hear you, literally.</string>
 </dict>
 </plist>
